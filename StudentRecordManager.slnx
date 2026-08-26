@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/Models/">
+    <File Path="Student.cs" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="DataStore.cs" />
+  </Folder>
   <Project Path="StudentRecordManager.csproj" />
 </Solution>
